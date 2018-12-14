@@ -1,0 +1,7 @@
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\bin\Debug\AlphabetSerializer.exe.config
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\bin\Debug\AlphabetSerializer.exe
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\bin\Debug\AlphabetSerializer.pdb
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\obj\Debug\AlphabetSerializer.csprojAssemblyReference.cache
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\obj\Debug\AlphabetSerializer.csproj.CoreCompileInputs.cache
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\obj\Debug\AlphabetSerializer.exe
+C:\Users\SLIM\source\repos\AlphabetSerializer\AlphabetSerializer\obj\Debug\AlphabetSerializer.pdb

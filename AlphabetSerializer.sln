@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlphabetSerializer", "AlphabetSerializer\AlphabetSerializer.csproj", "{3B4EC556-BA70-499A-843E-16F796E3CF2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B4EC556-BA70-499A-843E-16F796E3CF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4EC556-BA70-499A-843E-16F796E3CF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4EC556-BA70-499A-843E-16F796E3CF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4EC556-BA70-499A-843E-16F796E3CF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D05920F4-338B-4882-8FFA-AA3587AC4394}
+	EndGlobalSection
+EndGlobal
